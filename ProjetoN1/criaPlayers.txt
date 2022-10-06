@@ -1,0 +1,8 @@
+Player1|3
+Ámon|Fogo|380|Pound|40|Mega Punch|80|Psychic|90|Aura Sphere|80
+Mut|Grama|280|Tackle|50|Vine Whip|40|Razor Leaf|55|Seed Bomb|80
+Osíris|Água|280|Tackle|50|Water Gun|40|Aqua Tail|90|Hydro Pump|110
+Player2|3
+Seth|Fogo|300|Scratch|40|Ember|40|Flame Burst|70|Inferno|100
+Ísis|Grama|280|Tackle|50|Water Gun|40|Zen Headbutt|80|Psychic|90
+Hórus|Água|310|Tackle|50|Water Gun|40|Bubble Beam|75|Hydro Pump|110
